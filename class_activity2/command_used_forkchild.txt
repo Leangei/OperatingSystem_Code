@@ -1,0 +1,15 @@
+  166  rm result-shm-ipc.txt
+  167  rm result-mq-ipc.txt
+  168  cd ..
+  169  tree
+  170  cd
+  171  mkdir class_activity2
+  172  cd class_actvity2
+  173  tree
+  174  cd class_activity2
+  175  nano forkchild.c
+  176  gcc -o forkchild.c
+  177  gcc -o forkchild forkchild.c
+  178  ls
+  179  ./forkchild > result_forkchild.txt
+  180  history | tail -n 15 > command_used_forkchild.txt
