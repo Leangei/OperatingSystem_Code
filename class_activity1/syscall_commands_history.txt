@@ -1,0 +1,43 @@
+    1  ssh-gic-meng-leangei@192.168.21.251
+    2  ssh gic-meng-leangei@192.168.21.251
+    3  ssh gic-meng-leamgei@192.168.21.251
+    4  ssh gic-meng-leangei@192.168.21.251
+    5  ssh gic-meng-leangei@192.168.21.251pwd
+    6  ssh gic-meng-leangei@192.168.21.251
+    7  ssh gic-meng-leangei@192.168.20.231
+    8  mkdir class_activity1
+    9  cd class_acctivity1
+   10  cd class_activity1
+   11  nano syscall1.c
+   12  gcc syscall1.c -o syscall1
+   13  gcc systemcall1.c -o systemcall1
+   14  sudo apt install gcc
+   15  gcc systemcall1.c -o systemcall1
+   16  gcc syscall1.c -o syscall1
+   17  ls
+   18  ./
+   19  ./syscall1
+   20  cd ..
+   21  cd class_activity1
+   22  touch result.txt copyresult.txt
+   23  nano result.txt
+   24  nano copyfilesyscall.c
+   25  gcc copyfilesyscall.c -o copyfilesyscall
+   26  ls
+   27  ./copyfilesyscall
+   28  cat copyresult.txt
+   29  nano result.txt
+   30  ./copyfilesyscall
+   31  echo "System for copy" > result.txt
+   32  ./copyfilesyscall
+   33  nano copyfilesyscall.c
+   34  echo "System for copy" > result.txt
+   35  ./copyfilesyscall
+   36  nano copyfilesyscall.c
+   37  gcc copyfilesyscall.c -o copyfilesyscall
+   38  nano copyfilesyscall.c
+   39  gcc copyfilesyscall.c -o copyfilesyscall
+   40  echo "System for copy" > result.txt
+   41  ./copyfilesyscall
+   42  cat result.txt
+   43  history | tail -n 50 > ../class_activity1/syscall_commands_history.txt
